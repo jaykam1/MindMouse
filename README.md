@@ -10,4 +10,4 @@ If you would like to train the model on yourself follow the below instructions:
 4) Run model.py and change the text inside model.save() to 'NAME_YOUR_MODEL.h5'
 5) Run main.py and change the text inside load_model() to 'NAME_YOUR_MODEL.h5'
 
-You should now be able to use the model created to control your cursor. You can click to blink and press caps lock to pause tracking.
+You should now be able to use the model created to control your cursor. You can blink to click and press caps lock to pause tracking.
