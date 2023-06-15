@@ -1,6 +1,6 @@
 To run this program, install the required dependencies (in requirements.txt) and run main.py
 
-By default, it will use the most recent model I trained on myself with over 12,553 datapoints giving 96% validation-set accuracy (eye_tracking_modelB4-20.h5).
+By default, it will use the most recent model I trained on myself with 12,553 datapoints giving 96% validation-set accuracy (eye_tracking_modelB4-20.h5).
 
 If you would like to train the model on yourself follow the below instructions:
 
